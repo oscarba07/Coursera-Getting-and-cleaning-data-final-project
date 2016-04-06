@@ -1,5 +1,7 @@
 #Code Book
 
+From the original data, through this analysis, are extracted those variables that represent the mean and the standard deviation of each measurement. Identified by subject and activity, these measurements are summarized by their mean.
+
 The variables included in the summarized data set averages_data are:
 
 *Subject
